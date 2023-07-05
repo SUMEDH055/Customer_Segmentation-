@@ -1,0 +1,2 @@
+# Customer_Segmentation-
+Customer segmentation is a powerful strategy that businesses employ to better understand their customer base and effectively target their marketing efforts. By dividing customers into distinct groups based on their shared characteristics, businesses can tailor their products, services, and communication strategies to meet the specific needs and preferences of each segment. One popular approach for customer segmentation is the use of K-means clustering, an unsupervised machine learning algorithm.
